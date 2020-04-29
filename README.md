@@ -1,1 +1,1 @@
-# typewriter_effect
+Typewriter Effect By JS
